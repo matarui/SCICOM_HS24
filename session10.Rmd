@@ -1,0 +1,21 @@
+---
+title: "Session 10: Consciousness"
+description: |
+  What is consciousness?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![<span>Photo by <a href="https://unsplash.com/@andremouton?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andre Mouton</a> on <a href="https://unsplash.com/s/photos/mirror?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/andre-mouton-GBEHjsPQbEQ-unsplash.jpg)
+
+## Session Slides 
+
+![Consciousness](presentations/KPII_session10.pdf){width=700px height=500px}
+
+### Recommended Readings
+
+Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. *Trends in Cognitive Sciences, 10*(5), 204–211. [http://doi.org/10.1016/j.tics.2006.03.007](https://github.com/matarui/kogpsy/raw/main/docs/literature/Dehaene_2006_TiCS.pdf)
+
+Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science, 358*(6362), 486–492.  [http://doi.org/10.1126/science.aan8871](https://github.com/matarui/kogpsy/raw/main/docs/literature/Dehaene_2017_Science.pdf)

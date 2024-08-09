@@ -1,0 +1,19 @@
+---
+title: "Session 9: Knowing"
+description: |
+  Even alternative facts are facts to our brain.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Trump wants YOU to learn about facts: "We love you, you're very special." <span>Photo by <a href="https://unsplash.com/@darren1303?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Darren Halstead</a> on <a href="https://unsplash.com/s/photos/trump?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/darren-halstead-B_vXFdzvw3g-unsplash.jpg)
+
+## Session Slides 
+
+![Facts](presentations/KPII_session9.pdf){width=700px height=500px}
+
+### Recommended Reading
+
+Ralph, M. A. L., Jefferies, E., Patterson, K., & Rogers, T. T. (2016). The neural and computational bases of semantic cognition. *Nature Reviews Neuroscience, 18*(1), 42–55.  [http://doi.org/10.1038/nrn.2016.150](https://github.com/matarui/kogpsy/raw/main/docs/literature/LambonRalph_2016_Nature.pdf)

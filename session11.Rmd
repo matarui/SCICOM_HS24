@@ -1,0 +1,29 @@
+---
+title: "Session 11: What's next?"
+description: |
+  Will we still need cognitive psychology in 2050?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![<span>Photo by <a href="https://unsplash.com/@askkell?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andy Kelly</a> on <a href="https://unsplash.com/collections/1785633/cyborg-project?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/andy-kelly-0E_vhMVqL9g-unsplash.jpg)
+
+## Session Slides 
+
+![What's next?](presentations/KPII_session11.pdf){width=700px height=500px}
+
+### Here are a few questions about 2050! What do you think?
+
+- Will we still need pluralistic explanations?
+
+- Will our models of intelligence involve *g*? 
+
+- Will we think of the mind as a collection of modules?
+
+- Will we make a distinction between cognition and emotion?
+
+- Will machines have consciousness?
+
+- Will behavioral research still be needed?

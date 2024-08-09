@@ -1,0 +1,20 @@
+---
+title: "Session 7: Motivation"
+description: |
+  Fitter, happier, more productive!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![<span>Photo by <a href="https://unsplash.com/@whitfieldjordan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jordan Whitfield</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/jordan-whitfield-sm3Ub_IJKQg-unsplash.jpg)
+
+## Session Slides 
+
+![Motivation](presentations/KPII_session7.pdf){width=700px height=500px}
+
+### Recommended Reading
+
+Braver, T. S., Krug, M. K., Chiew, K. S., Kool, W., Westbrook, J. A., Clement, N. J., et al. (2014). Mechanisms of motivation-cognition interaction: Challenges and opportunities. *Cognitive, Affective, & Behavioral Neuroscience, 14*(2), 443–472. [http://doi.org/10.3758/s13415-014-0300-0](https://github.com/matarui/kogpsy/raw/main/docs/literature/Braver_2014_CABN.pdf)
+

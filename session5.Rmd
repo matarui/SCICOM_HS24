@@ -1,0 +1,21 @@
+---
+title: "Session 5: Emotion"
+description: |
+  How do you feel?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Balloons are often made of plastic, which poses serious environmental concerns - so SAD! <span>Photo by <a href="https://unsplash.com/@aweiland?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andreas Weiland</a> on <a href="https://unsplash.com/s/photos/happy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/andreas-weiland-TMpqNhMunQY-unsplash.jpg)
+
+## Session Slides 
+
+![Emotion](presentations/KPII_session5.pdf){width=700px height=500px}
+
+### Recommended Readings
+
+Barrett, L. F. (2016). Navigating the science of emotion. In H. L. Meiselman (Ed.), *Emotion Measurement* (pp. 31–63). Woodhead Publishing. (pp. 31–63).  [http://doi.org/10.1016/B978-0-08-100508-8.00002-3](https://github.com/matarui/kogpsy/raw/main/docs/literature/Barrett_2016_EM.pdf)
+
+Gross, J. J., & Barrett, L.F. (2011). Emotion generation and emotion regulation: One or two depends on your point of view. *Emotion Review, 3*(1), 8–16. [http://doi.org/10.1177/1754073910380974](https://github.com/matarui/kogpsy/raw/main/docs/literature/Gross_2011_EmotionReview.pdf)

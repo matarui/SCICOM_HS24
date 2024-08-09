@@ -1,0 +1,25 @@
+---
+title: "Session 2: What is intelligence?"
+description: |
+  Is intelligence whatever intelligence tests measure?  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![<span>Photo by <a href="https://unsplash.com/@davidmatos?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Matos</a> on <a href="https://unsplash.com/s/photos/brain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/david-matos-xtLIgpytpck-unsplash.jpg)
+
+## Session Slides 
+
+![What is intelligence?](presentations/KPII_session2.pdf){width=700px height=500px}
+
+### Recommended Readings
+
+Barbey, A. K. (2018). Network neuroscience theory of human intelligence. *Trends in Cognitive Sciences, 22*(1), 8–20. [http://doi.org/10.1016/j.tics.2017.10.001.](https://github.com/matarui/kogpsy/raw/main/docs/literature/Barbey_2018_TiCS.pdf)
+
+Kovacs, K., & Conway, A. R. A. (2016). Process overlap theory: A unified account of the general factor of intelligence. *Psychological Inquiry, 27*(3), 151–177. [http://doi.org/10.1080/1047840X.2016.1153946 ](https://github.com/matarui/kogpsy/raw/main/docs/literature/Kovacs_2016_PsychologicalInquiry.pdf)
+
+
+
+

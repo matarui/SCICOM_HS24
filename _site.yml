@@ -1,0 +1,44 @@
+name: "KOGPSY"
+title: "KOGPSY"
+description: |
+  KOGPSY
+output_dir: "docs"
+navbar:
+  logo:
+    image: photos/unibas.png
+    href: https://cds.unibas.ch
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Sessions"
+      menu:
+      - text: "Session 1: Intro"
+        href: session1.html
+      - text: "Session 2: What is intelligence?"
+        href: session2.html
+      - text: "Session 3: Spatial cognition"
+        href: session3.html
+      - text: "Session 4: Numerical cognition"
+        href: session4.html
+      - text: "Session 5: Emotion"
+        href: session5.html
+      - text: "Session 6: Social cognition"
+        href: session6.html
+      - text: "Session 7: Motivation"
+        href: session7.html
+      - text: "Session 8: Language"
+        href: session8.html
+      - text: "Session 9: Knowing"
+        href: session9.html
+      - text: "Session 10: Consciousness"
+        href: session10.html
+      - text: "Session 11: What's next?"
+        href: session11.html
+      - text: "Session 12: Q&A"
+        href: session12.html
+    - text: "Exam"
+      href: exam.html
+      search: true
+output:
+  distill::distill_article:
+    toc: true
