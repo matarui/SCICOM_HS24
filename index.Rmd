@@ -45,10 +45,6 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 |13 | 19.12.2024 | [Exam](exam.html) | |
 :::
 
-```{r, include=FALSE}
-# https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session1.pdf
-```
-
 # What is this course about?
 
 This course aims to give a broad introduction to science communication. 
@@ -59,11 +55,18 @@ By completing the course you can expect to...
 
 - Get an overview of theories and principles of science communication
 - Learn to develop visual communication strategies for science communication
-- Critically evaluate and reflect science communication
+- Critically evaluate and reflect on science communication
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course and the course materials (e.g., slides). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
+This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly before or after each session). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
+
+# Grading
+
+The final grade for the course will be based on two components:
+
+- Theory (40%): This portion will be evaluated through an exam designed to test your understanding of core concepts covered in lectures and readings.
+- Assignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Timely submission and the quality of work will be key factors in this component.
 
 # Recommended reading
 

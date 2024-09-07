@@ -12,4 +12,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Assessment
 
-You can find information about the location and time of the exam in the [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=280442). Additional information will be made available during the semester. 
+You can find information about the location and time of the exam in the [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275). Additional information will be made available during the semester. 

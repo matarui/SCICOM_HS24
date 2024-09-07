@@ -6,15 +6,15 @@
       "description": "What have you learned?",
       "author": [],
       "contents": "\n\nContents\nAssessment\n\nPhoto by Siora Photography on UnsplashAssessment\nYou can find information about the location and time of the exam in the course directory. Additional information will be made available during the semester.\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:35+02:00"
+      "last_modified": "2024-09-07T11:27:29+02:00"
     },
     {
       "path": "index.html",
       "title": "Science Communication",
       "description": "*Science Communication* ([73168-01](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275)), FS24, University of Basel\n\nInstructors: [Darjan Hil](https://www.superdot.studio/darjan-hil-en), [Nicole Lachenmeier](https://www.superdot.studio/nicole-lachenmeier-de), and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/)\n\n**WEBSITE UNDER CONSTRUCTION:** Last updated `r format(Sys.time(), \"%a %b %d %X %Y\")`\n",
       "author": [],
-      "contents": "\n\nContents\nSession information\nWhat is this course about?\nWhat can you expect to learn?\nHow should you use this website?\nRecommended reading\n\nMID for the Science Communication win!Session information\nSessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.\n\n#\nDate\nTopic\nSlides\n1\n19.09.2024\nWhat is science communication?\npdf\n2\n03.10.2024\nModels and elements of science communication\npdf\n3\n10.10.2024\nScientific uncertainty and trust in science\npdf\n4\n17.10.2024\nGuidelines for science communication\npdf\n5\n24.10.2024\nScience communication gone wrong\npdf\n6\n31.10.2024\nPractical: Knowledge and Data Visualization\npdf\n7\n07.11.2024\nPractical: Modular Information Design\npdf\n8\n14.11.2024\nPractical: Modular Information Design\npdf\n9\n21.11.2024\nPractical: Modular Information Design\npdf\n10\n28.11.2024\nPractical: Modular Information Design\npdf\n11\n05.12.2024\nPractical: Modular Information Design\npdf\n12\n12.12.2024\nPractical: Modular Information Design\npdf\n13\n19.12.2024\nExam\n\n\nWhat is this course about?\nThis course aims to give a broad introduction to science communication.\nWhat can you expect to learn?\nBy completing the course you can expect to…\nGet an overview of theories and principles of science communication\nLearn to develop visual communication strategies for science communication\nCritically evaluate and reflect science communication\nHow should you use this website?\nThis website is designed to help course participants get an overview of the course and the course materials (e.g., slides). A FAQ forum is available on ADAM.\nRecommended reading\nVisualizing Complexity: Modular Information Design Handbook by Darjan Hill and Nicole Lachenmeier.\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:36+02:00"
+      "contents": "\n\nContents\nSession information\nWhat is this course about?\nWhat can you expect to learn?\nHow should you use this website?\nGrading\nRecommended reading\n\nMID for the Science Communication win!Session information\nSessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.\n\n#\nDate\nTopic\nSlides\n1\n19.09.2024\nWhat is science communication?\npdf\n2\n03.10.2024\nModels and elements of science communication\npdf\n3\n10.10.2024\nScientific uncertainty and trust in science\npdf\n4\n17.10.2024\nGuidelines for science communication\npdf\n5\n24.10.2024\nScience communication gone wrong\npdf\n6\n31.10.2024\nPractical: Knowledge and Data Visualization\npdf\n7\n07.11.2024\nPractical: Modular Information Design\npdf\n8\n14.11.2024\nPractical: Modular Information Design\npdf\n9\n21.11.2024\nPractical: Modular Information Design\npdf\n10\n28.11.2024\nPractical: Modular Information Design\npdf\n11\n05.12.2024\nPractical: Modular Information Design\npdf\n12\n12.12.2024\nPractical: Modular Information Design\npdf\n13\n19.12.2024\nExam\n\n\nWhat is this course about?\nThis course aims to give a broad introduction to science communication.\nWhat can you expect to learn?\nBy completing the course you can expect to…\nGet an overview of theories and principles of science communication\nLearn to develop visual communication strategies for science communication\nCritically evaluate and reflect on science communication\nHow should you use this website?\nThis website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly before or after each session). A FAQ forum is available on ADAM.\nGrading\nThe final grade for the course will be based on two components:\nTheory (40%): This portion will be evaluated through an exam designed to test your understanding of core concepts covered in lectures and readings.\nAssignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Timely submission and the quality of work will be key factors in this component.\nRecommended reading\nVisualizing Complexity: Modular Information Design Handbook by Darjan Hill and Nicole Lachenmeier.\n\n\n\n",
+      "last_modified": "2024-09-07T11:27:30+02:00"
     },
     {
       "path": "session1.html",
@@ -22,7 +22,7 @@
       "description": "What is cognitive psychology?",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Readings\n\n\nPhoto by Bill Oxford on UnsplashSession Slides\nIntroductionRecommended Readings\nKrakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3), 480–490. http://doi.org/10.1016/j.neuron.2016.12.041\nNesse, R. M. (2013). Tinbergen’s four questions, organized: A response to Bateson and Laland. Trends in Ecology & Evolution, 28(12), 681–682. http://doi.org/10.1016/j.tree.2013.10.008\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:36+02:00"
+      "last_modified": "2024-09-07T11:27:30+02:00"
     },
     {
       "path": "session10.html",
@@ -30,7 +30,7 @@
       "description": "What is consciousness?",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Readings\n\n\nPhoto by Andre Mouton on UnsplashSession Slides\nConsciousnessRecommended Readings\nDehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. Trends in Cognitive Sciences, 10(5), 204–211. http://doi.org/10.1016/j.tics.2006.03.007\nDehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? Science, 358(6362), 486–492. http://doi.org/10.1126/science.aan8871\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:37+02:00"
+      "last_modified": "2024-09-07T11:27:30+02:00"
     },
     {
       "path": "session11.html",
@@ -38,7 +38,7 @@
       "description": "Will we still need cognitive psychology in 2050?",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nHere are a few questions about 2050! What do you think?\n\n\nPhoto by Andy Kelly on UnsplashSession Slides\nWhat’s next?Here are a few questions about 2050! What do you think?\nWill we still need pluralistic explanations?\nWill our models of intelligence involve g?\nWill we think of the mind as a collection of modules?\nWill we make a distinction between cognition and emotion?\nWill machines have consciousness?\nWill behavioral research still be needed?\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:37+02:00"
+      "last_modified": "2024-09-07T11:27:31+02:00"
     },
     {
       "path": "session12.html",
@@ -46,7 +46,7 @@
       "description": "Any questions?",
       "author": [],
       "contents": "\n\nContents\nSession Slides\n\nPhoto by Thea M. on UnsplashSession Slides\nQ&A\n\n\n",
-      "last_modified": "2024-09-07T11:17:37+02:00"
+      "last_modified": "2024-09-07T11:27:31+02:00"
     },
     {
       "path": "session2.html",
@@ -54,7 +54,7 @@
       "description": "Is intelligence whatever intelligence tests measure?  ",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Readings\n\n\nPhoto by David Matos on UnsplashSession Slides\nWhat is intelligence?Recommended Readings\nBarbey, A. K. (2018). Network neuroscience theory of human intelligence. Trends in Cognitive Sciences, 22(1), 8–20. http://doi.org/10.1016/j.tics.2017.10.001.\nKovacs, K., & Conway, A. R. A. (2016). Process overlap theory: A unified account of the general factor of intelligence. Psychological Inquiry, 27(3), 151–177. http://doi.org/10.1080/1047840X.2016.1153946\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:38+02:00"
+      "last_modified": "2024-09-07T11:27:31+02:00"
     },
     {
       "path": "session3.html",
@@ -62,7 +62,7 @@
       "description": "Space: The first frontier?!",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nPhoto by Ruthie on UnsplashSession Slides\nSpatial CognitionRecommended Reading\nBurgess, N. (2008). Spatial cognition and the brain. Annals of the New York Academy of Sciences, 1124(1), 77–97. http://doi.org/10.1196/annals.1440.002\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:38+02:00"
+      "last_modified": "2024-09-07T11:27:32+02:00"
     },
     {
       "path": "session4.html",
@@ -70,7 +70,7 @@
       "description": "There are only 10 types of people in the world: Those who understand binary, and those who don't.",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nWhen is 10 = 2? Photo by mike hoydich on UnsplashSession Slides\nNumerical CognitionRecommended Reading\nSiemann, J., & Petermann, F. (2018). Evaluation of the Triple Code Model of numerical processing: Reviewing past neuroimaging and clinical findings. Research in Developmental Disabilities, 72, 106–117. http://doi.org/10.1016/j.ridd.2017.11.001\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:38+02:00"
+      "last_modified": "2024-09-07T11:27:32+02:00"
     },
     {
       "path": "session5.html",
@@ -78,7 +78,7 @@
       "description": "How do you feel?",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Readings\n\n\nBalloons are often made of plastic, which poses serious environmental concerns - so SAD! Photo by Andreas Weiland on UnsplashSession Slides\nEmotionRecommended Readings\nBarrett, L. F. (2016). Navigating the science of emotion. In H. L. Meiselman (Ed.), Emotion Measurement (pp. 31–63). Woodhead Publishing. (pp. 31–63). http://doi.org/10.1016/B978-0-08-100508-8.00002-3\nGross, J. J., & Barrett, L.F. (2011). Emotion generation and emotion regulation: One or two depends on your point of view. Emotion Review, 3(1), 8–16. http://doi.org/10.1177/1754073910380974\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:39+02:00"
+      "last_modified": "2024-09-07T11:27:33+02:00"
     },
     {
       "path": "session6.html",
@@ -86,7 +86,7 @@
       "description": "No man is an island",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nPhoto by Paul Hanaoka on UnsplashSession Slides\nSocial cognitionRecommended Reading\nBjorklund, D. F., Causey, K., & Periss, V. (2010). The evolution and development of human social cognition. In P.M. Kappeler & J.B. Silk (Eds.), Mind the gap: Tracing the origins of human universals (pp. 351-371). Springer. link\nVan Overwalle, F. (2009). Social cognition and the brain: a meta‐analysis. Human Brain Mapping, 30(3), 829-858. https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.20547\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:39+02:00"
+      "last_modified": "2024-09-07T11:27:33+02:00"
     },
     {
       "path": "session7.html",
@@ -94,7 +94,7 @@
       "description": "Fitter, happier, more productive!",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nPhoto by Jordan Whitfield on UnsplashSession Slides\nMotivationRecommended Reading\nBraver, T. S., Krug, M. K., Chiew, K. S., Kool, W., Westbrook, J. A., Clement, N. J., et al. (2014). Mechanisms of motivation-cognition interaction: Challenges and opportunities. Cognitive, Affective, & Behavioral Neuroscience, 14(2), 443–472. http://doi.org/10.3758/s13415-014-0300-0\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:39+02:00"
+      "last_modified": "2024-09-07T11:27:33+02:00"
     },
     {
       "path": "session8.html",
@@ -102,7 +102,7 @@
       "description": "Bla, bla, bla!",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nA phoneme away: “hop” and “pop”! Photo by Josh Applegate on UnsplashSession Slides\nLanguageRecommended Reading\nHickok, G., & Poeppel, D. (2015). Neural basis of speech perception. In M. J. Aminoff, F. Boller, & D. F. Swaab (Eds.), The Human Auditory System (Vol. 129, pp. 149–160). Elsevier. http://doi.org/https://doi.org/10.1016/B978-0-444-62630-1.00008-1\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:40+02:00"
+      "last_modified": "2024-09-07T11:27:34+02:00"
     },
     {
       "path": "session9.html",
@@ -110,7 +110,7 @@
       "description": "Even alternative facts are facts to our brain.",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nTrump wants YOU to learn about facts: “We love you, you’re very special.” Photo by Darren Halstead on UnsplashSession Slides\nFactsRecommended Reading\nRalph, M. A. L., Jefferies, E., Patterson, K., & Rogers, T. T. (2016). The neural and computational bases of semantic cognition. Nature Reviews Neuroscience, 18(1), 42–55. http://doi.org/10.1038/nrn.2016.150\n\n\n\n",
-      "last_modified": "2024-09-07T11:17:40+02:00"
+      "last_modified": "2024-09-07T11:27:34+02:00"
     }
   ],
   "collections": []
