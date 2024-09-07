@@ -1,9 +1,9 @@
 ---
-title: "KOGPSY"
+title: "Science Communication"
 description: |
-  Welcome to the website for *Kognitionspsychologie II* FS24 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/home?id=280442))
+  *Science Communication* ([73168-01](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275)), FS24, University of Basel
   
-  Instructors: [Loreen Tisdall](https://loreentisdall.github.io) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
+  Instructors: [Darjan Hil](https://www.superdot.studio/darjan-hil-en), [Nicole Lachenmeier](https://www.superdot.studio/nicole-lachenmeier-de), and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/)
   
   **WEBSITE UNDER CONSTRUCTION:** Last updated `r format(Sys.time(), "%a %b %d %X %Y")`
   
@@ -21,28 +21,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-![Thinking, feeling, willing are simply words we use to describe different ways of using one's brain! <span>Photo by <a href="https://unsplash.com/@jessemartini?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jesse Martini</a> on <a href="https://unsplash.com/s/photos/brain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/jesse-martini-Iod3vdjKE1E-unsplash.jpg)
+![MID for the Science Communication win!](photos/mid.jpg)
 
 # Session information
 
-Sessions take place Tuesdays, 10.15-11.45, Biozentrum, Maurice E. Müller Saal U1.111. 
+Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131. 
 
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 27.02.2024 | [Session 1: Introduction](session1.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session1.pdf)|
-| 2 | 05.03.2024 | [Session 2: Intelligence](session2.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session2.pdf)|
-| 3 | 12.03.2024 | [Session 3: Spatial cognition](session3.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session3.pdf)|
-| 4 | 19.03.2024 | [Session 4: Numerical cognition](session4.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session4.pdf)|
-| 5 | 26.03.2024 | [Session 5: Emotion](session5.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session5.pdf)|
-| 6 | 09.04.2024 | [Session 6: Social cognition](session6.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session6.pdf)|
-| 7 | 16.04.2024 | [Session 7: Motivation](session7.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session7.pdf)|
-| 8 | 23.04.2024 | [Session 8: Language](session8.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session8.pdf)|
-| 9 | 30.04.2024 | [Session 9: Knowing](session9.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session9.pdf)|
-|10 | 07.05.2024 | [Session 10: Consciousness](session10.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session10.pdf)|
-|11 | 14.05.2024 | [Session 11: What's next](session11.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session11.pdf)|
-|12 | 21.05.2024 | [Session 12: Q&A](session12.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session12.pdf)|
-|13 | 04.06.2024 | [Exam](exam.html) | |
+| 1 | 19.09.2024 | What is science communication? | [pdf]()|
+| 2 | 03.10.2024 | Models and elements of science communication | [pdf]()|
+| 3 | 10.10.2024 | Scientific uncertainty and trust in science | [pdf]()|
+| 4 | 17.10.2024 | Guidelines for science communication | [pdf]()|
+| 5 | 24.10.2024 | Science communication gone wrong | [pdf]()|
+| 6 | 31.10.2024 | Practical: Knowledge and Data Visualization | [pdf]()|
+| 7 | 07.11.2024 | Practical: Modular Information Design | [pdf]()|
+| 8 | 14.11.2024 | Practical: Modular Information Design | [pdf]()|
+| 9 | 21.11.2024 | Practical: Modular Information Design | [pdf]()|
+|10 | 28.11.2024 | Practical: Modular Information Design | [pdf]()|
+|11 | 05.12.2024 | Practical: Modular Information Design | [pdf]()|
+|12 | 12.12.2024 | Practical: Modular Information Design | [pdf]()|
+|13 | 19.12.2024 | [Exam](exam.html) | |
 :::
 
 ```{r, include=FALSE}
@@ -51,17 +51,20 @@ Sessions take place Tuesdays, 10.15-11.45, Biozentrum, Maurice E. Müller Saal U
 
 # What is this course about?
 
-This course aims to give a broad introduction to central topics in psychology, with a focus on mechanistic explanations of cognition, emotion, and motivation. 
+This course aims to give a broad introduction to science communication. 
 
-# What can you expect to learn?
+# What can you expect to learn? 
 
-By completing the course you can expect to...
+By completing the course you can expect to... 
 
-- learn about central theories and models in key areas of psychology
-- become familiarized with common methods used in psychology
-- learn about examples of applications of psychology to real-world contexts
-- reflect about the need for pluralistic explanations in psychology
+- Get an overview of theories and principles of science communication
+- Learn to develop visual communication strategies for science communication
+- Critically evaluate and reflect science communication
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course and the course materials (e.g., slides, recommended readings). Recommended readings cover central topics discussed in each session and, therefore, they represent a central resource for a thorough preparation for the exam. A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM. 
+This website is designed to help course participants get an overview of the course and the course materials (e.g., slides). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
+
+# Recommended reading
+
+- [Visualizing Complexity: Modular Information Design Handbook](https://www.degruyter.com/document/doi/10.1515/9783035625066/html) by Darjan Hill and Nicole Lachenmeier.  
