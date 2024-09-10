@@ -10,8 +10,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Exam"
-      href: exam.html
       search: true
 output:
   distill::distill_article:

@@ -28,20 +28,20 @@ knitr::opts_chunk$set(echo = FALSE)
 Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131. 
 
 ::: l-body
-| # | Date     | Topic                         | Slides |
-|---| ---------|-------------------------------|--------|
-| 1 | 19.09.2024 | What is science communication? | [pdf]()|
-| 2 | 03.10.2024 | Models and elements of science communication | [pdf]()|
-| 3 | 10.10.2024 | Scientific uncertainty and trust in science | [pdf]()|
-| 4 | 17.10.2024 | Guidelines for science communication | [pdf]()|
-| 5 | 24.10.2024 | Science communication gone wrong | [pdf]()|
-| 6 | 31.10.2024 | Practical: Knowledge and Data Visualization | [pdf]()|
-| 7 | 07.11.2024 | Practical: Modular Information Design | [pdf]()|
-| 8 | 14.11.2024 | Practical: Modular Information Design | [pdf]()|
-| 9 | 21.11.2024 | Practical: Modular Information Design | [pdf]()|
-|10 | 28.11.2024 | Practical: Modular Information Design | [pdf]()|
-|11 | 05.12.2024 | Practical: Modular Information Design | [pdf]()|
-|12 | 12.12.2024 | Practical: Modular Information Design | [pdf]()|
+| # | Date     | Topic                         | Instructor(s) | Slides |
+|---| ---------|-------------------------------|--------| --------|
+| 1 | 19.09.2024 | What is science communication? | Mata | [pdf]()|
+| 2 | 03.10.2024 | Models and elements of science communication | Mata | [pdf]()|
+| 3 | 10.10.2024 | Scientific uncertainty and trust in science | Mata | [pdf]()|
+| 4 | 17.10.2024 | Guidelines for science communication | Mata | [pdf]()|
+| 5 | 24.10.2024 | Science communication gone wrong | Mata | [pdf]()|
+| 6 | 31.10.2024 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | [pdf]()|
+| 7 | 07.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | [pdf]()|
+| 8 | 14.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | [pdf]()|
+| 9 | 21.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | [pdf]()|
+|10 | 28.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | [pdf]()|
+|11 | 05.12.2024 | Practical: Modular Information Design | Hil/Lachenmeier | [pdf]()|
+|12 | 12.12.2024 | Practical: Modular Information Design | Hil/Lachenmeier | [pdf]()|
 |13 | 19.12.2024 | [Exam](exam.html) | |
 :::
 
@@ -65,9 +65,12 @@ This website is designed to help course participants get an overview of the cour
 
 The final grade for the course will be based on two components:
 
-- Theory (40%): This portion will be evaluated through an exam designed to test your understanding of core concepts covered in lectures and readings.
-- Assignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Timely submission and the quality of work will be key factors in this component.
+- Exam (40%): A multiple-choice exam will test your understanding of core concepts covered in lectures and readings. You can find information about the location and time of the exam in the [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275).
 
-# Recommended reading
+- Assignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Timely submission and the quality of work will be key factors in this component. Assignements should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html)
+
+# Recommended readings
+
+- [50 Essentials on Science Communication](https://www.degruyter.com/document/doi/10.1515/9783110763577/html) edited by  Jean Paul Bertemes, Serge Haan, and Dirk Hans.
 
 - [Visualizing Complexity: Modular Information Design Handbook](https://www.degruyter.com/document/doi/10.1515/9783035625066/html) by Darjan Hill and Nicole Lachenmeier.  
