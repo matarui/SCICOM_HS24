@@ -51,9 +51,9 @@ This course aims to give a broad introduction to science communication. By compl
 
 - Get an overview of theories and principles of science communication
 - Learn to develop visual communication strategies for science communication
-- Critically evaluate and reflect on science communication
+- Learn to critically evaluate and reflect on science communication
 
-This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly after each session). Additionally, an [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
+This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly after each session). Additionally, a [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
 
 # Course grading
 
@@ -61,10 +61,10 @@ The final grade for the course will be based on two components:
 
 - Exam (40%): At the end of the semester, a multiple-choice exam will test your understanding of core concepts covered in lectures and readings. You can find information about the location and time of the exam in the [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275).
 
-- Assignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Timely submission and the quality of work will be key factors in this component. Assignments should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html).
+- Assignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Both timely submission and the quality of work will be key factors in determining your grade for this component. Assignments should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html) by the designated deadlines.
 
 # Recommended readings
 
-- [50 Essentials on Science Communication](https://www.degruyter.com/document/doi/10.1515/9783110763577/html) edited by  Jean Paul Bertemes, Serge Haan, and Dirk Hans.
+- ["50 Essentials on Science Communication"](https://www.degruyter.com/document/doi/10.1515/9783110763577/html) edited by  Jean Paul Bertemes, Serge Haan, and Dirk Hans.
 
-- [Visualizing Complexity: Modular Information Design Handbook](https://www.degruyter.com/document/doi/10.1515/9783035625066/html) by Darjan Hill and Nicole Lachenmeier.  
+- ["Visualizing Complexity: Modular Information Design Handbook"](https://www.degruyter.com/document/doi/10.1515/9783035625066/html) by Darjan Hill and Nicole Lachenmeier.  
