@@ -45,29 +45,23 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 |13 | 19.12.2024 | [Exam](exam.html) | |
 :::
 
-# What is this course about?
+# Course description and learning goals
 
-This course aims to give a broad introduction to science communication. 
-
-# What can you expect to learn? 
-
-By completing the course you can expect to... 
+This course aims to give a broad introduction to science communication. By completing the course you can expect to... 
 
 - Get an overview of theories and principles of science communication
 - Learn to develop visual communication strategies for science communication
 - Critically evaluate and reflect on science communication
 
-# How should you use this website?
+This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly after each session). Additionally, an [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
 
-This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly before or after each session). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
-
-# Grading
+# Course grading
 
 The final grade for the course will be based on two components:
 
-- Exam (40%): A multiple-choice exam will test your understanding of core concepts covered in lectures and readings. You can find information about the location and time of the exam in the [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275).
+- Exam (40%): At the end of the semester, a multiple-choice exam will test your understanding of core concepts covered in lectures and readings. You can find information about the location and time of the exam in the [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275).
 
-- Assignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Timely submission and the quality of work will be key factors in this component. Assignements should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html)
+- Assignments (60%): The majority of the grade will come from practical assignments, which involve applying the principles learned to specific applications. Timely submission and the quality of work will be key factors in this component. Assignments should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html).
 
 # Recommended readings
 
