@@ -56,6 +56,7 @@ This course aims to give a broad introduction to science communication. By compl
 This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly after each session). Additionally, an [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
 
 # Course grading
+DH: editing test
 
 The final grade for the course will be based on two components:
 
