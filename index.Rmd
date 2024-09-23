@@ -67,7 +67,7 @@ At the end of the semester, a multiple-choice exam will test your understanding 
 
 Practical exercises will make up the majority of your grade. These exercises will apply the principles learned in class to hands-on tasks. Both the timely submission and the quality of your work will be critical in determining your grade. Assignments should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html)
 
-Exercise A (11%)
+*Exercise A (11%)*
 
 This assignment involves a brief reflection task. You will critically assess an example of science communication of your choice (e.g., a news article, blog post, video, podcast, etc.) that can be accessed online. Your reflection, which should not exceed 300 words, should address the following:
 What is the main message of the communication?
@@ -76,7 +76,8 @@ What are the strengths and weaknesses?
 How could it be improved?
 Submit your reflection as a PDF file.
 
-Exercises B-H (7 exercises, 7% each)
+*Exercises B-H (7 exercises, 7% each)*
+
 During each session, you will complete a task involving manual drawing (materials will be provided), followed by a brief homework assignment. The goal is to develop an understanding of visualization principles through active creation and to learn how to critically evaluate visualizations. By drawing manually, we foster a deep understanding that is independent of digital tools and applicable in studies, research, and practice. "Drawing by hand is thinking" – an approach that combines creative and analytical thinking. For each session, you will have 12 hours to upload the in-class task to ADAM (in case you have to miss the session) and 6 days to submit the homework assignment.
 
 
