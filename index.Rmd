@@ -65,7 +65,7 @@ At the end of the semester, a multiple-choice exam will test your understanding 
 
 **Exercises (60%)**
 
-Practical exercises will make up the majority of your grade. These exercises will apply the principles learned in class to hands-on tasks. Both the timely submission and the quality of your work will be critical in determining your grade. Exercises should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html)
+Practical exercises will make up the majority of your grade. These exercises will apply the principles learned in class to hands-on tasks. Both the timely submission and the quality of your work will be critical in determining a pass/fail for each exercise. Exercises should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html)
 
 *Exercise A (11%)*
 
@@ -78,7 +78,7 @@ Submit your reflection (including a link to the example of your choice) as a PDF
 
 *Exercises B-H (7 exercises, 7% each)*
 
-During each session, you will complete a task involving manual drawing (materials will be provided), followed by a brief homework assignment. The goal is to develop an understanding of visualization principles through active creation and to learn how to critically evaluate visualizations. "Drawing by hand is thinking" is an approach that combines creative and analytical thinking: By drawing manually, we aim to foster a deep understanding that is independent of digital tools and applicable in studies, research, and practice. For each session, you will have 12 hours to upload the in-class task (in case you have to miss the session and cannot do it in class) and 6 days to submit the homework assignment.
+During each session, you will complete a task involving manual drawing (materials will be provided), followed by a brief homework assignment. The goal is to develop an understanding of visualization principles through active creation and to learn how to critically evaluate visualizations. "Drawing by hand is thinking" is an approach that combines creative and analytical thinking: By drawing manually, you can develop a deeper understanding that is independent of digital tools and applicable in studies, research, and practice. For each session, you will have 12 hours to upload the in-class task (in case you have to miss the session and cannot do it in class) and 6 days to submit the homework assignment. Submit your drawings as a PDF or JGEP file.
 
 
 # Recommended readings
