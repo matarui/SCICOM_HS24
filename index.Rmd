@@ -65,7 +65,7 @@ At the end of the semester, a multiple-choice exam will test your understanding 
 
 **Exercises (60%)**
 
-Practical exercises will make up the majority of your grade. These exercises will apply the principles learned in class to hands-on tasks. Both the timely submission and the quality of your work will be critical in determining a pass/fail for each exercise. Exercises should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html)
+Practical exercises will make up the majority of your grade. These exercises will apply the principles learned in class to hands-on tasks. Both the timely submission and the quality of your work will be critical in determining a pass/fail for each exercise. Exercises should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html).
 
 *Exercise A (11%)*
 
