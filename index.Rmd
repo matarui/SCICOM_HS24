@@ -33,7 +33,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 1 | 19.09.2024 | What is science communication? | Mata | [pdf](presentations/SCICOM_session1.pdf)| |
 | 2 | 03.10.2024 | Models and elements of science communication | Mata | [pdf](presentations/SCICOM_session2.pdf)| |
 | 3 | 10.10.2024 | Scientific uncertainty and trust in science | Mata | [pdf](presentations/SCICOM_session3.pdf)| |
-| 4 | 17.10.2024 | Guidelines for science communication | Mata | | |
+| 4 | 17.10.2024 | Guidelines for science communication | Mata |[pdf](presentations/SCICOM_session4.pdf) | |
 | 5 | 24.10.2024 | Science communication gone wrong | Mata | | A |
 | 6 | 31.10.2024 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | | B |
 | 7 | 07.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | | C |
