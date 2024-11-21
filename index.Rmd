@@ -38,7 +38,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 6 | 31.10.2024 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | [pdf](presentations/SCICOM_session6.pdf) | B |
 | 7 | 07.11.2024 | Practical: Yellow Chapter – Data | Hil/Lachenmeier | [pdf](presentations/SCICOM_session7.pdf) | C |
 | 8 | 14.11.2024 | Practical: Multidimensional Line Graph | Hil/Lachenmeier | [pdf](presentations/SCICOM_session8.pdf) | D |
-| 9 | 21.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | | E |
+| 9 | 21.11.2024 | Practical: Elements | Hil/Lachenmeier | [pdf](presentations/SCICOM_session9.pdf) | E |
 |10 | 28.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | | F |
 |11 | 05.12.2024 | Practical: Modular Information Design | Hil/Lachenmeier | | G |
 |12 | 12.12.2024 | Practical: Modular Information Design | Hil/Lachenmeier | | H |
