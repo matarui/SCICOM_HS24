@@ -41,7 +41,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 9 | 21.11.2024 | Practical: Elements | Hil/Lachenmeier | [pdf](presentations/SCICOM_session9.pdf) | E |
 |10 | 28.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | | F |
 |11 | 05.12.2024 | Practical: Every dot has an identity | Hil/Lachenmeier | [pdf](presentations/SCICOM_session11.pdf) | G |
-|12 | 12.12.2024 | Practical: Modular thinking mindset | Hil/Lachenmeier | | H |
+|12 | 12.12.2024 | Practical: Modular thinking mindset | Hil/Lachenmeier | [pdf](presentations/SCICOM_session12.pdf) | H |
 |13 | 19.12.2024 | [Exam](exam.html) | |
 :::
 
